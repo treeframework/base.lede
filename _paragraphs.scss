@@ -6,7 +6,11 @@
 
 // The `.lede` class is used to make the introductory text (usually a paragraph)
 // of a document slightly larger: en.wikipedia.org/wiki/Lede_(news)
+
+// Predefine the variables below in order to alter and enable specific features.
+$tree-lede-size: 1.125 !default
+
 .#{$tree-namespace}lede,
 %#{$tree-namespace}lede {
-    @include tree-font-size($tree-base-font-size * 1.125);
+    @include tree-font-size($tree-base-font-size * $tree-lede-size);
 }
