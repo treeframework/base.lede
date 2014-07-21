@@ -8,7 +8,7 @@
 // of a document slightly larger: en.wikipedia.org/wiki/Lede_(news)
 
 // Predefine the variables below in order to alter and enable specific features.
-$tree-lede-size: 1.125 !default
+$tree-lede-size: 1.125 !default;
 
 .#{$tree-namespace}lede,
 %#{$tree-namespace}lede {
