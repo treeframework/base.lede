@@ -1,11 +1,19 @@
-# Paragraphs
+# Lede
 
-The `paragraphs` module provides a very small amount of additional styles for
+The `lede` module provides a very small amount of additional styles for
 paragraphs.
 
 Install using Bower:
 
-    $ bower install --save tree-paragraphs
+```sh
+$ bower install tree-lede --save
+```
+
+Install using npm:
+
+```sh
+$ npm install tree-lede --save
+```
 
 ## Credits
 
