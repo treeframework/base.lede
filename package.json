@@ -1,24 +1,24 @@
 {
   "name": "tree-lede",
-  "description": "Base lede styles.",
-  "version": "0.2.0",
+  "description": "Additional styles for paragraphs.",
+  "version": "0.3.0",
   "author": "Ilia Kolev <info@iliakolev.com>",
   "bugs": {
-    "url": "https://github.com/treeframework/base.lede/issues"
+    "url": "https://github.com/treeframework/trump.lede/issues"
   },
   "dependencies": {
     "tree-defaults": "~0.2.5",
     "tree-mixins": "~0.4.1"
   },
-  "homepage": "https://github.com/treeframework/base.lede",
+  "homepage": "https://github.com/treeframework/trump.lede",
   "keywords": [
     "oocss",
     "css"
   ],
   "license": "MIT",
-  "main": "_base.lede.scss",
+  "main": "_trump.lede.scss",
   "repository": {
     "type": "git",
-    "url": "https://github.com/treeframework/base.lede.git"
+    "url": "https://github.com/treeframework/trump.lede.git"
   }
 }
