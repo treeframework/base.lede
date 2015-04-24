@@ -12,7 +12,7 @@ The `lede` module depends on two other modules:
 
 ## Installation
 
-You can install `lede` module via Bower, npm, Git Submodules, or copy and paste.
+You can install `lede` module via Bower, npm, or copy and paste.
 
 ### Install using Bower:
 
@@ -32,18 +32,6 @@ Once installed, `@import` into your project in its Trump layer:
 $ npm install tree-lede --save
 ```
 
-### Install as a Git Submodule:
-
-```sh
-$ git submodule add git@github.com:treeframework/trump.lede.git
-```
-
-Once installed, `@import` into your project in its Trump layer:
-
-```scss
-@import "trump.lede/trump.lede";
-```
-
 ### Install via file download
 
 The least recommended option for installation is to simply download
@@ -55,12 +43,8 @@ Trump layer.
 Basic usage of the `lede` module uses the required clasess:
 
 ```html
-<p class="u-lede">
-    Makes the introductory text slightly larger.
-</p>
+<p class="u-lede">...</p>
 ```
-
-
 
 ## Credits
 
