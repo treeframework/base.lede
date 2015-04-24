@@ -31,7 +31,6 @@ $tree-lede-size: 1.125 !default;
 // Block: `u-lede`
 // =============================================================================
 
-.#{$tree-namespace}u-lede,
-%#{$tree-namespace}u-lede {
+.#{$tree-namespace}u-lede {
     @include tree-font-size($tree-base-font-size * $tree-lede-size);
 }
