@@ -12,6 +12,6 @@
   "license": "MIT",
   "dependencies": {
     "tree-defaults": "~0.2.5",
-    "tree-mixins": "~0.4.1"
+    "tree-font-size": "~0.1.0"
   }
 }

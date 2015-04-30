@@ -8,7 +8,7 @@ paragraphs.
 The `lede` module depends on two other modules:
 
 * [settings.defaults](https://github.com/treeframework/settings.defaults)
-* [tools.mixins](https://github.com/treeframework/tools.mixins)
+* [tools.font-size](https://github.com/treeframework/tools.font-size)
 
 ## Installation
 
